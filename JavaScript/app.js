@@ -46,8 +46,8 @@ const project_details = [
     {
         live: "https://gentle-seahorse-c74144.netlify.app/",
         github: "https://github.com/vaibhav-xt/Business-Landing-Page",
-        img: "/images/bussiness.png",
-        title: "Bussiness Page",
+        img: "/images/business.png",
+        title: "Business Page",
         tags: ["HTML", "CSS", "JavaScript"]
     },
     {
