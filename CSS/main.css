@@ -438,7 +438,7 @@ Floating Window
     align-items: center;
     color: white;
     min-width: 300px;
-    z-index: 0;
+    z-index: 1;
 }
 
 .fixed-background {
@@ -1203,6 +1203,7 @@ circle {
 
 .other-section {
     position: relative;
+    z-index: 1;
     min-height: 100vh;
 }
 
