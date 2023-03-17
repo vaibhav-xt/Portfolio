@@ -1,3 +1,4 @@
+
 document.getElementById("home").addEventListener("click", () => {
     window.document.location.reload(true);
 });
@@ -20,6 +21,13 @@ const project_details = [{
     img: "/images/paytm.png",
     title: "PayTm Clone",
     tags: ["HTML", "Tailwind CSS", "CSS", "JavaScript"],
+},
+{
+    live: "https://landing-react-page.netlify.app/",
+    github: "https://github.com/vaibhav-xt/ReactLanding-Page",
+    img: "/images/react-page.png",
+    title: "React Landing Page",
+    tags: ["First React App", "HTML", "CSS", "JavaScript"],
 },
 {
     live: "https://elaborate-medovik-d3c4ca.netlify.app/",
@@ -47,13 +55,6 @@ const project_details = [{
     github: "https://github.com/vaibhav-xt/Business-Landing-Page",
     img: "/images/business.png",
     title: "Business Page",
-    tags: ["HTML", "CSS", "JavaScript"],
-},
-{
-    live: "https://effervescent-otter-cdb822.netlify.app/",
-    github: "https://github.com/vaibhav-xt/To-Do-List",
-    img: "/images/todo-list.png",
-    title: "Task Management App",
     tags: ["HTML", "CSS", "JavaScript"],
 },
 ];
