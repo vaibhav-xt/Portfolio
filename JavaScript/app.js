@@ -30,6 +30,13 @@ const project_details = [{
     tags: ["First React App", "HTML", "CSS", "JavaScript"],
 },
 {
+    live: "https://taupe-florentine-318f94.netlify.app/",
+    github: "https://github.com/vaibhav-xt/duplicate-character-remover",
+    img: "/images/duplicate_remover.png",
+    title: "Duplicate Character Remover",
+    tags: ["React", "Bootstrap"],
+},
+{
     live: "https://elaborate-medovik-d3c4ca.netlify.app/",
     github: "https://github.com/vaibhav-xt/Tech-Mate",
     img: "/images/tech_mate.png",
@@ -48,13 +55,6 @@ const project_details = [{
     github: "https://github.com/vaibhav-xt/Certificate-Generator",
     img: "/images/certificate.png",
     title: "Certificate Generator",
-    tags: ["HTML", "CSS", "JavaScript"],
-},
-{
-    live: "https://gentle-seahorse-c74144.netlify.app/",
-    github: "https://github.com/vaibhav-xt/Business-Landing-Page",
-    img: "/images/business.png",
-    title: "Business Page",
     tags: ["HTML", "CSS", "JavaScript"],
 },
 ];
