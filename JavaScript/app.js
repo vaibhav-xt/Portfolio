@@ -16,10 +16,10 @@ menu_box.addEventListener("click", () => {
 });
 
 const project_details = [{
-    live: "https://paytm-cl0ne.netlify.app/",
+    live: "https://vaibhav-xt-paytm.netlify.app/",
     github: "https://github.com/vaibhav-xt/Paytm_Clone",
     img: "./images/paytm.png",
-    title: "PayTm Clone",
+    title: "Paytm Clone",
     tags: ["HTML", "Tailwind CSS", "CSS", "JavaScript"],
 },
 {
@@ -30,7 +30,7 @@ const project_details = [{
     tags: ["First React App", "HTML", "CSS", "JavaScript"],
 },
 {
-    live: "https://taupe-florentine-318f94.netlify.app/",
+    live: "https://vaibhav-xt-duplicate-character-remove.netlify.app/",
     github: "https://github.com/vaibhav-xt/duplicate-character-remover",
     img: "./images/duplicate_remover.png",
     title: "Duplicate Character Remover",
