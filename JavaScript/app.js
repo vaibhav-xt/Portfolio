@@ -47,7 +47,7 @@ const project_details = [{
     live: "https://github.com/vaibhav-xt/React-Projects/tree/master/mera-notebook",
     github: "https://github.com/vaibhav-xt/React-Projects/tree/master/mera-notebook",
     img: "https://cdn.thewirecutter.com/wp-content/uploads/2020/01/sleepweek-lowres-2x1-1145985262.jpg?auto=webp&quality=75&crop=2:1&width=1024",
-    title: "Education Page",
+    title: "Mera Notebook",
     tags: ["React", "MongoDB", "useContext", "JSON Web Token"],
 },
 {
