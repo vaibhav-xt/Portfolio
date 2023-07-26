@@ -16,7 +16,7 @@ menu_box.addEventListener("click", () => {
 });
 
 const project_details = [{
-    live: "https://vaibhav-xt-paytm.netlify.app/",
+    live: "https://paytm-clone-3b71a.web.app/",
     github: "https://github.com/vaibhav-xt/LandingPage/tree/master/Paytm_Clone/Source%20Code",
     img: "./images/paytm.png",
     title: "Paytm Clone",
@@ -30,7 +30,7 @@ const project_details = [{
     tags: ["React", "Redux", "NodeJs", "MongoDb"],
 },
 {
-    live: "https://vaibhav-xt-duplicate-character-remove.netlify.app/",
+    live: "https://duplicate-character-remover.web.app/",
     github: "https://github.com/vaibhav-xt/React-Projects/tree/master/duplicate-character-remover",
     img: "./images/duplicate_remover.png",
     title: "Duplicate Character Remover",
@@ -51,7 +51,7 @@ const project_details = [{
     tags: ["React", "MongoDB", "useContext", "JSON Web Token"],
 },
 {
-    live: "https://vaibhav-xt-certificate-generator.netlify.app/",
+    live: "https://certificate-generator-8b47f.web.app/",
     github: "https://github.com/vaibhav-xt/Vanilla-Javascript-Projects/tree/master/Certificate-generator",
     img: "./images/certificate.png",
     title: "Certificate Generator",
